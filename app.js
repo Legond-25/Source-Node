@@ -60,9 +60,9 @@ app.use(hpp());
 // Compression Middleware
 app.use(compression());
 
-// Test
+// Home Page
 app.get('/', (req, res) => {
-  res.send('Hello Source Node');
+  res.redirect('https://documenter.getpostman.com/view/16439158/Uz5Njt9N');
 });
 
 // API Routes
