@@ -33,3 +33,9 @@ npm install
 npm start
 ```
 ##### 7. Test the API by hitting various routes via Postman
+
+### ADMIN LOGIN DETAILS
+```
+email: "admin@gmail.com",
+password: "admin@123"
+```
